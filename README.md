@@ -11,12 +11,9 @@ A simple and interactive **Flutter Quiz App**. This app allows users to take a q
 - Responsive and simple UI built with Flutter.
 
 ## Screenshots
-
-[WhatsApp Image 2025-01-21 at 01 24 25_c818148c](https://github.com/user-attachments/assets/6b38138f-9d50-4483-b0a3-e3192290fc7f)
-[WhatsApp Image 2025-01-21 at 01 24 25_493008f6](https://github.com/user-
-attachments/assets/2310448b-c660-46ce-bba1-065329d85b5a)
-![WhatsApp Image 2025-01-21 at 01 24 25_09eb145c](https://github.com/user-attachments/assets/0797a232-cc95-4673-b83b-54711e050325)
-
+![quiz app(1)](https://github.com/user-attachments/assets/d8ae62e6-8731-4153-ac24-5b22399297f9)
+![quiz app(2)](https://github.com/user-attachments/assets/224c75e3-7a10-4d48-afb6-1d0b401febe1)
+![quiz app(3)](https://github.com/user-attachments/assets/83848fe3-7f70-403d-b765-c38e492dfd67)
 
 ## Tech Stack!
 - **Flutter**: Cross-platform framework used to build the app.
